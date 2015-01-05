@@ -76,8 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dijkstra.cpp" />
     <ClCompile Include="floyd_warshall.cpp" />
+    <ClCompile Include="prepare.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

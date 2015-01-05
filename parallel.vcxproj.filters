@@ -18,7 +18,7 @@
     <ClCompile Include="floyd_warshall.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dijkstra.cpp">
+    <ClCompile Include="prepare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -77,7 +77,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="floyd_warshall.cpp" />
+    <ClCompile Include="parse_results.cpp" />
     <ClCompile Include="prepare.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="input.txt" />
+    <None Include="output.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

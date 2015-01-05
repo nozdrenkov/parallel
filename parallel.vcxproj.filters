@@ -21,5 +21,16 @@
     <ClCompile Include="prepare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="parse_results.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="input.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="output.txt">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
